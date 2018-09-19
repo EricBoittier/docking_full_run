@@ -1,0 +1,123 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C8_1  and  C7_27 
+REMARK       I    between atoms: O6_2  and  C6_34 
+REMARK       I    between atoms: O4_3  and  C4_39 
+REMARK       I    between atoms: O4_4  and  C4_6 
+REMARK       I    between atoms: O2_7  and  C2_37 
+REMARK       I    between atoms: C7_9  and  C8_15 
+REMARK       I    between atoms: C7_9  and  N2_13 
+REMARK       I    between atoms: N2_10  and  C2_53 
+REMARK       I    between atoms: N2_10  and  C7_27 
+REMARK       I    between atoms: C6_11  and  C5_48 
+REMARK       I    between atoms: C5_12  and  C6_17 
+REMARK       I    between atoms: N2_13  and  C2_19 
+REMARK       I    between atoms: C2_16  and  O2_42 
+REMARK       I    between atoms: C3_18  and  O3_23 
+REMARK       I    between atoms: O3_20  and  C1_24 
+REMARK       I    between atoms: O3_20  and  C3_22 
+REMARK       I    between atoms: O6_21  and  C6_28 
+REMARK       I    between atoms: O4_25  and  C4_50 
+REMARK       I    between atoms: O4_26  and  C1_33 
+REMARK       I    between atoms: O4_26  and  C4_41 
+REMARK       I    between atoms: C6_28  and  C5_43 
+REMARK       I    between atoms: C5_29  and  C6_34 
+REMARK       I    between atoms: O3_30  and  C3_46 
+REMARK       I    between atoms: C3_31  and  O3_49 
+REMARK       I    between atoms: C1_38  and  O3_49 
+ROOT
+ATOM      1  C8  NAG d 404      -1.249  33.028  -4.169  0.00  0.00    -0.003 C 
+ATOM      2  O6  NAG d 404      -3.836  25.972  -4.766  0.00  0.00    -0.398 OA
+ATOM      3  N2  NAG d 404      -0.378  30.835  -3.614  0.00  0.00    -0.349 N 
+ATOM      4  O3  NAG d 404       1.595  28.798  -5.030  0.00  0.00    -0.348 OA
+ATOM      5  C3  NAG d 404       0.211  28.790  -4.924  0.00  0.00     0.093 C 
+ATOM      6  O4  NAG d 404       0.040  26.779  -6.345  0.00  0.00    -0.390 OA
+ATOM      7  C7  NAG d 404      -1.423  31.537  -4.155  0.00  0.00     0.214 C 
+ATOM      8  C5  NAG d 404      -1.913  27.534  -5.204  0.00  0.00     0.089 C 
+ATOM      9  C6  NAG d 404      -2.628  26.237  -5.496  0.00  0.00     0.043 C 
+ATOM     10  O5  NAG d 404      -2.358  28.127  -3.988  0.00  0.00    -0.337 OA
+ATOM     11  C1  NAG d 404      -1.394  28.586  -3.092  0.00  0.00     0.283 C 
+ATOM     12  O7  NAG d 404      -2.436  31.001  -4.597  0.00  0.00    -0.274 OA
+ATOM     13  C4  NAG d 404      -0.386  27.398  -5.126  0.00  0.00     0.089 C 
+ATOM     14  C2  NAG d 404      -0.221  29.369  -3.584  0.00  0.00     0.102 C 
+ATOM     15  H   NAG d 404      -0.302  33.281  -3.740  0.00  0.00     0.040 H 
+ATOM     16  H   NAG d 404      -2.032  33.484  -3.599  0.00  0.00     0.040 H 
+ATOM     17  H   NAG d 404      -1.289  33.382  -5.178  0.00  0.00     0.040 H 
+ATOM     18  H   NAG d 404      -4.198  25.115  -5.041  0.00  0.00     0.209 HD
+ATOM     19  H   NAG d 404       0.343  31.364  -3.203  0.00  0.00     0.163 HD
+ATOM     20  H   NAG d 404      -0.168  29.406  -5.713  0.00  0.00     0.091 H 
+ATOM     21  H   NAG d 404       1.004  26.675  -6.335  0.00  0.00     0.210 HD
+ATOM     22  H   NAG d 404      -2.158  28.157  -6.038  0.00  0.00     0.090 H 
+ATOM     23  H   NAG d 404      -2.874  26.233  -6.537  0.00  0.00     0.078 H 
+ATOM     24  H   NAG d 404      -1.947  25.472  -5.187  0.00  0.00     0.078 H 
+ATOM     25  H   NAG d 404      -0.059  26.794  -4.306  0.00  0.00     0.091 H 
+ATOM     26  H   NAG d 404       0.554  29.255  -2.856  0.00  0.00     0.085 H 
+ATOM     27  O4  NAG d 402       9.004  27.781 -11.807  0.00  0.00    -0.390 OA
+ATOM     28  O5  NAG d 402       6.875  28.601  -8.983  0.00  0.00    -0.349 OA
+ATOM     29  C7  NAG d 402       6.044  32.849 -10.775  0.00  0.00     0.214 C 
+ATOM     30  N2  NAG d 402       5.910  31.515 -11.028  0.00  0.00    -0.349 N 
+ATOM     31  C8  NAG d 402       5.062  33.803 -11.433  0.00  0.00    -0.003 C 
+ATOM     32  C2  NAG d 402       6.817  30.504 -10.462  0.00  0.00     0.087 C 
+ATOM     33  O6  NAG d 402       9.061  27.229  -8.014  0.00  0.00    -0.398 OA
+ATOM     34  C6  NAG d 402       8.309  26.721  -9.113  0.00  0.00     0.043 C 
+ATOM     35  C3  NAG d 402       7.604  29.720 -11.498  0.00  0.00     0.093 C 
+ATOM     36  O7  NAG d 402       6.906  33.311 -10.056  0.00  0.00    -0.274 OA
+ATOM     37  C1  NAG d 402       6.006  29.550  -9.580  0.00  0.00     0.154 C 
+ATOM     38  C4  NAG d 402       8.426  28.623 -10.806  0.00  0.00     0.089 C 
+ATOM     39  C5  NAG d 402       7.558  27.757  -9.913  0.00  0.00     0.089 C 
+ATOM     40  O3  NAG d 402       8.569  30.541 -12.111  0.00  0.00    -0.348 OA
+ATOM     41  H   NAG d 402       9.565  28.313 -12.392  0.00  0.00     0.210 HD
+ATOM     42  H   NAG d 402       5.177  31.217 -11.613  0.00  0.00     0.163 HD
+ATOM     43  H   NAG d 402       4.370  33.247 -12.030  0.00  0.00     0.040 H 
+ATOM     44  H   NAG d 402       5.596  34.492 -12.054  0.00  0.00     0.040 H 
+ATOM     45  H   NAG d 402       4.529  34.342 -10.678  0.00  0.00     0.040 H 
+ATOM     46  H   NAG d 402       7.550  31.032  -9.889  0.00  0.00     0.084 H 
+ATOM     47  H   NAG d 402       9.507  26.496  -7.561  0.00  0.00     0.209 HD
+ATOM     48  H   NAG d 402       7.598  26.019  -8.731  0.00  0.00     0.078 H 
+ATOM     49  H   NAG d 402       9.021  26.287  -9.784  0.00  0.00     0.078 H 
+ATOM     50  H   NAG d 402       6.896  29.332 -12.200  0.00  0.00     0.091 H 
+ATOM     51  H   NAG d 402       5.294  28.994 -10.153  0.00  0.00     0.132 H 
+ATOM     52  H   NAG d 402       9.175  29.097 -10.207  0.00  0.00     0.091 H 
+ATOM     53  H   NAG d 402       6.900  27.229 -10.571  0.00  0.00     0.090 H 
+ATOM     54  O4  GCU d 401       9.028  32.672 -17.010  0.00  0.00    -0.390 OA
+ATOM     55  C4  GCU d 401       9.494  32.050 -15.808  0.00  0.00     0.097 C 
+ATOM     56  C6  GCU d 401       8.830  29.723 -16.579  0.00  0.00     0.206 C 
+ATOM     57  C2  GCU d 401       9.323  32.357 -13.343  0.00  0.00     0.110 C 
+ATOM     58  O3  GCU d 401      10.308  34.045 -14.790  0.00  0.00    -0.390 OA
+ATOM     59  C1  GCU d 401       8.433  31.116 -13.284  0.00  0.00     0.160 C 
+ATOM     60  O2  GCU d 401       8.947  33.280 -12.333  0.00  0.00    -0.388 OA
+ATOM     61  O6B GCU d 401       8.974  30.229 -17.712  0.00  0.00    -0.646 OA
+ATOM     62  C3  GCU d 401       9.277  33.050 -14.683  0.00  0.00     0.092 C 
+ATOM     63  O5  GCU d 401       8.924  30.235 -14.296  0.00  0.00    -0.340 OA
+ATOM     64  C5  GCU d 401       8.647  30.790 -15.569  0.00  0.00     0.152 C 
+ATOM     65  O6A GCU d 401       8.786  28.558 -16.130  0.00  0.00    -0.646 OA
+ATOM     66  H   GCU d 401       9.549  33.472 -17.183  0.00  0.00     0.210 HD
+ATOM     67  H   GCU d 401      10.526  31.774 -15.864  0.00  0.00     0.091 H 
+ATOM     68  H   GCU d 401      10.325  32.017 -13.186  0.00  0.00     0.094 H 
+ATOM     69  H   GCU d 401      10.255  34.473 -15.659  0.00  0.00     0.210 HD
+ATOM     70  H   GCU d 401       7.401  31.359 -13.431  0.00  0.00     0.133 H 
+ATOM     71  H   GCU d 401       8.037  33.578 -12.490  0.00  0.00     0.210 HD
+ATOM     72  H   GCU d 401       8.314  33.509 -14.763  0.00  0.00     0.091 H 
+ATOM     73  H   GCU d 401       7.635  31.130 -15.640  0.00  0.00     0.104 H 
+ATOM     74  O4  GCU d 405      -1.949  28.854  -1.891  0.00  0.00    -0.189 OA
+ATOM     75  O2  GCU d 403       3.830  29.814  -4.152  0.00  0.00    -0.388 OA
+ATOM     76  C5  GCU d 403       2.981  29.868  -8.231  0.00  0.00     0.152 C 
+ATOM     77  O5  GCU d 403       2.140  29.282  -7.274  0.00  0.00    -0.340 OA
+ATOM     78  C6  GCU d 403       2.597  29.376  -9.580  0.00  0.00     0.206 C 
+ATOM     79  C3  GCU d 403       4.654  30.063  -6.386  0.00  0.00     0.092 C 
+ATOM     80  O3  GCU d 403       6.035  29.901  -6.029  0.00  0.00    -0.390 OA
+ATOM     81  C1  GCU d 403       2.279  29.479  -5.895  0.00  0.00     0.160 C 
+ATOM     82  O4  GCU d 403       5.338  30.278  -8.687  0.00  0.00    -0.348 OA
+ATOM     83  O6A GCU d 403       2.379  28.150  -9.726  0.00  0.00    -0.646 OA
+ATOM     84  C2  GCU d 403       3.736  29.289  -5.477  0.00  0.00     0.110 C 
+ATOM     85  C4  GCU d 403       4.440  29.632  -7.827  0.00  0.00     0.103 C 
+ATOM     86  O6B GCU d 403       2.523  30.230 -10.486  0.00  0.00    -0.646 OA
+ATOM     87  H   GCU d 403       4.740  29.720  -3.831  0.00  0.00     0.210 HD
+ATOM     88  H   GCU d 403       2.870  30.931  -8.276  0.00  0.00     0.104 H 
+ATOM     89  H   GCU d 403       4.413  31.100  -6.276  0.00  0.00     0.091 H 
+ATOM     90  H   GCU d 403       6.285  28.968  -6.118  0.00  0.00     0.210 HD
+ATOM     91  H   GCU d 403       1.871  30.467  -5.840  0.00  0.00     0.133 H 
+ATOM     92  H   GCU d 403       4.021  28.259  -5.529  0.00  0.00     0.094 H 
+ATOM     93  H   GCU d 403       4.639  28.584  -7.910  0.00  0.00     0.092 H 
+ENDROOT
+TORSDOF 23

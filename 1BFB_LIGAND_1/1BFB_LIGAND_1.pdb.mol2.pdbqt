@@ -1,0 +1,144 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C4_1  and  O4_32 
+REMARK       I    between atoms: C2_2  and  N_17 
+REMARK       I    between atoms: C4_3  and  O4_45 
+REMARK       I    between atoms: C5_5  and  C6_20 
+REMARK       I    between atoms: C5_7  and  C6_42 
+REMARK       I    between atoms: C2_8  and  N_48 
+REMARK       I    between atoms: O1_9  and  C1_58 
+REMARK       I    between atoms: O1_9  and  C4_62 
+REMARK       I    between atoms: C3_11  and  O3_46 
+REMARK       I    between atoms: O1S_13  and  S1_14 
+REMARK       I    between atoms: S1_14  and  N_48 
+REMARK       I    between atoms: S1_14  and  O2S_39 
+REMARK       I    between atoms: S1_14  and  O3S_16 
+REMARK       I    between atoms: N_17  and  S1_64 
+REMARK       I    between atoms: C1_18  and  O4_45 
+REMARK       I    between atoms: C6_20  and  O6_41 
+REMARK       I    between atoms: O1S_22  and  S1_64 
+REMARK       I    between atoms: O3S_25  and  S1_64 
+REMARK       I    between atoms: O1_26  and  C1_61 
+REMARK       I    between atoms: S_27  and  O2_57 
+REMARK       I    between atoms: O6_29  and  C6_42 
+REMARK       I    between atoms: O6_29  and  S2_68 
+REMARK       I    between atoms: C6_30  and  C5_54 
+REMARK       I    between atoms: C1_31  and  O4_32 
+REMARK       I    between atoms: C5_35  and  C6_36 
+REMARK       I    between atoms: O3_37  and  C3_38 
+REMARK       I    between atoms: C3_40  and  O3_44 
+REMARK       I    between atoms: O6_41  and  S2_52 
+REMARK       I    between atoms: S_43  and  O2_53 
+REMARK       I    between atoms: O3_47  and  C3_69 
+REMARK       I    between atoms: O2S_49  and  S1_64 
+REMARK       I    between atoms: O2_53  and  C2_59 
+REMARK       I    between atoms: O2_57  and  C2_65 
+ROOT
+ATOM      1  C4  SGN d 304      -1.479   1.780  53.270  0.00  0.00     0.095 C 
+ATOM      2  C2  SGN d 304      -2.975   2.992  54.913  0.00  0.00     0.081 C 
+ATOM      3  O5S SGN d 304      -0.961  -2.294  55.649  0.00  0.00    -0.572 OA
+ATOM      4  C5  SGN d 304      -2.675   0.849  53.016  0.00  0.00     0.091 C 
+ATOM      5  N   SGN d 304      -3.636   4.280  55.109  0.00  0.00    -0.210 NA
+ATOM      6  O4S SGN d 304      -0.230  -2.922  53.489  0.00  0.00    -0.572 OA
+ATOM      7  O1S SGN d 304      -4.589   4.513  57.538  0.00  0.00    -0.296 OA
+ATOM      8  O3S SGN d 304      -2.310   4.935  57.320  0.00  0.00    -0.296 OA
+ATOM      9  O1  SGN d 304      -5.172   2.314  53.931  0.00  0.00    -0.369 OA
+ATOM     10  O6  SGN d 304      -2.311  -1.427  53.544  0.00  0.00    -0.254 OA
+ATOM     11  O4  SGN d 304      -0.698   1.991  52.063  0.00  0.00    -0.348 OA
+ATOM     12  O5  SGN d 304      -3.435   0.686  54.234  0.00  0.00    -0.350 OA
+ATOM     13  C3  SGN d 304      -2.089   3.126  53.683  0.00  0.00     0.083 C 
+ATOM     14  C6  SGN d 304      -2.305  -0.506  52.459  0.00  0.00     0.067 C 
+ATOM     15  O3  SGN d 304      -1.059   4.018  53.988  0.00  0.00    -0.391 OA
+ATOM     16  O2S SGN d 304      -3.858   6.495  56.527  0.00  0.00    -0.296 OA
+ATOM     17  C1  SGN d 304      -4.039   1.900  54.707  0.00  0.00     0.147 C 
+ATOM     18  S1  SGN d 304      -3.594   5.097  56.697  0.00  0.00     0.156 S 
+ATOM     19  O6S SGN d 304       0.111  -0.705  54.296  0.00  0.00    -0.572 OA
+ATOM     20  S2  SGN d 304      -0.766  -1.852  54.290  0.00  0.00     0.251 S 
+ATOM     21  H   SGN d 304      -0.831   1.357  54.008  0.00  0.00     0.091 H 
+ATOM     22  H   SGN d 304      -2.384   2.719  55.762  0.00  0.00     0.076 H 
+ATOM     23  H   SGN d 304      -3.263   1.326  52.260  0.00  0.00     0.090 H 
+ATOM     24  H   SGN d 304      -4.620   4.140  54.880  0.00  0.00     0.140 HD
+ATOM     25  H   SGN d 304      -4.404   3.567  57.649  0.00  0.00     0.231 HD
+ATOM     26  H   SGN d 304      -2.125   3.990  57.438  0.00  0.00     0.231 HD
+ATOM     27  H   SGN d 304      -5.533   3.135  54.299  0.00  0.00     0.212 HD
+ATOM     28  H   SGN d 304      -2.685   3.478  52.867  0.00  0.00     0.089 H 
+ATOM     29  H   SGN d 304      -1.331  -0.467  52.018  0.00  0.00     0.080 H 
+ATOM     30  H   SGN d 304      -3.000  -0.807  51.703  0.00  0.00     0.080 H 
+ATOM     31  H   SGN d 304      -0.539   3.671  54.730  0.00  0.00     0.210 HD
+ATOM     32  H   SGN d 304      -4.724   6.612  56.106  0.00  0.00     0.231 HD
+ATOM     33  H   SGN d 304      -4.460   1.700  55.670  0.00  0.00     0.131 H 
+ATOM     34  C4  SGN d 302       6.813  -0.270  52.164  0.00  0.00     0.095 C 
+ATOM     35  C5  SGN d 302       6.057   0.715  53.045  0.00  0.00     0.091 C 
+ATOM     36  C2  SGN d 302       5.753   0.671  50.202  0.00  0.00     0.081 C 
+ATOM     37  O1  SGN d 302       3.806   1.453  51.425  0.00  0.00    -0.348 OA
+ATOM     38  C3  SGN d 302       5.993  -0.602  50.947  0.00  0.00     0.083 C 
+ATOM     39  O1S SGN d 302       4.218   0.664  46.667  0.00  0.00    -0.296 OA
+ATOM     40  S1  SGN d 302       5.033   1.274  47.703  0.00  0.00     0.156 S 
+ATOM     41  O4S SGN d 302      10.048   3.389  53.849  0.00  0.00    -0.572 OA
+ATOM     42  O3S SGN d 302       4.693   2.649  47.996  0.00  0.00    -0.296 OA
+ATOM     43  C6  SGN d 302       6.899   1.132  54.221  0.00  0.00     0.067 C 
+ATOM     44  O6S SGN d 302       8.390   3.407  55.495  0.00  0.00    -0.572 OA
+ATOM     45  O5S SGN d 302       9.999   1.632  55.376  0.00  0.00    -0.572 OA
+ATOM     46  O2S SGN d 302       6.396   1.112  47.326  0.00  0.00    -0.296 OA
+ATOM     47  O6  SGN d 302       8.075   1.677  53.634  0.00  0.00    -0.254 OA
+ATOM     48  O4  SGN d 302       6.953  -1.492  52.853  0.00  0.00    -0.348 OA
+ATOM     49  O3  SGN d 302       6.742  -1.505  50.165  0.00  0.00    -0.391 OA
+ATOM     50  N   SGN d 302       4.760   0.405  49.206  0.00  0.00    -0.210 NA
+ATOM     51  S2  SGN d 302       9.194   2.571  54.642  0.00  0.00     0.251 S 
+ATOM     52  C1  SGN d 302       5.149   1.714  51.111  0.00  0.00     0.150 C 
+ATOM     53  O5  SGN d 302       5.914   1.873  52.284  0.00  0.00    -0.349 OA
+ATOM     54  H   SGN d 302       7.754   0.170  51.906  0.00  0.00     0.091 H 
+ATOM     55  H   SGN d 302       5.141   0.272  53.375  0.00  0.00     0.090 H 
+ATOM     56  H   SGN d 302       6.682   1.016  49.799  0.00  0.00     0.076 H 
+ATOM     57  H   SGN d 302       5.052  -1.046  51.198  0.00  0.00     0.089 H 
+ATOM     58  H   SGN d 302       4.504  -0.252  46.528  0.00  0.00     0.231 HD
+ATOM     59  H   SGN d 302       3.757   2.704  48.246  0.00  0.00     0.231 HD
+ATOM     60  H   SGN d 302       7.137   0.289  54.835  0.00  0.00     0.080 H 
+ATOM     61  H   SGN d 302       6.397   1.831  54.857  0.00  0.00     0.080 H 
+ATOM     62  H   SGN d 302       6.571   0.176  47.141  0.00  0.00     0.231 HD
+ATOM     63  H   SGN d 302       7.595  -1.104  49.937  0.00  0.00     0.210 HD
+ATOM     64  H   SGN d 302       3.849   0.677  49.576  0.00  0.00     0.140 HD
+ATOM     65  H   SGN d 302       5.166   2.634  50.565  0.00  0.00     0.131 H 
+ATOM     66  O61 IDS d 303       4.030   3.670  53.840  0.00  0.00    -0.646 OA
+ATOM     67  O5  IDS d 303       1.515   1.384  52.851  0.00  0.00    -0.340 OA
+ATOM     68  S   IDS d 303       1.119  -0.885  49.130  0.00  0.00     0.252 S 
+ATOM     69  C1  IDS d 303       0.490   1.203  51.865  0.00  0.00     0.161 C 
+ATOM     70  C5  IDS d 303       2.228   2.630  52.749  0.00  0.00     0.152 C 
+ATOM     71  C6  IDS d 303       3.229   2.720  53.870  0.00  0.00     0.206 C 
+ATOM     72  O3  IDS d 303       1.240   3.768  50.246  0.00  0.00    -0.390 OA
+ATOM     73  O2S IDS d 303       0.873  -0.265  47.848  0.00  0.00    -0.572 OA
+ATOM     74  O62 IDS d 303       3.336   1.747  54.634  0.00  0.00    -0.646 OA
+ATOM     75  O1S IDS d 303       1.994  -2.013  48.991  0.00  0.00    -0.572 OA
+ATOM     76  O2  IDS d 303       1.884   0.230  50.187  0.00  0.00    -0.244 OA
+ATOM     77  C4  IDS d 303       2.994   2.636  51.440  0.00  0.00     0.103 C 
+ATOM     78  C2  IDS d 303       1.123   1.351  50.475  0.00  0.00     0.134 C 
+ATOM     79  C3  IDS d 303       1.999   2.592  50.291  0.00  0.00     0.094 C 
+ATOM     80  O3S IDS d 303      -0.150  -1.220  49.633  0.00  0.00    -0.572 OA
+ATOM     81  H   IDS d 303       0.101   0.211  51.969  0.00  0.00     0.133 H 
+ATOM     82  H   IDS d 303       1.540   3.448  52.798  0.00  0.00     0.104 H 
+ATOM     83  H   IDS d 303       1.830   4.529  50.129  0.00  0.00     0.210 HD
+ATOM     84  H   IDS d 303       3.600   3.512  51.341  0.00  0.00     0.092 H 
+ATOM     85  H   IDS d 303       0.298   1.461  49.803  0.00  0.00     0.097 H 
+ATOM     86  H   IDS d 303       2.510   2.528  49.353  0.00  0.00     0.091 H 
+ATOM     87  O1S UAP d 301       9.063  -2.438  57.214  0.00  0.00    -0.572 OA
+ATOM     88  O61 UAP d 301       9.258  -5.132  50.386  0.00  0.00    -0.642 OA
+ATOM     89  C1  UAP d 301       8.236  -1.815  53.345  0.00  0.00     0.167 C 
+ATOM     90  O62 UAP d 301      10.352  -3.267  50.239  0.00  0.00    -0.642 OA
+ATOM     91  O3S UAP d 301       8.437  -4.626  56.834  0.00  0.00    -0.572 OA
+ATOM     92  C6  UAP d 301       9.498  -3.984  50.768  0.00  0.00     0.233 C 
+ATOM     93  O3  UAP d 301       6.010  -4.043  53.417  0.00  0.00    -0.389 OA
+ATOM     94  C3  UAP d 301       7.390  -4.151  53.652  0.00  0.00     0.086 C 
+ATOM     95  S   UAP d 301       9.398  -3.615  56.490  0.00  0.00     0.252 S 
+ATOM     96  O2  UAP d 301       9.261  -3.255  54.797  0.00  0.00    -0.244 OA
+ATOM     97  C5  UAP d 301       8.850  -3.551  51.831  0.00  0.00     0.147 C 
+ATOM     98  O2S UAP d 301      10.761  -4.020  56.741  0.00  0.00    -0.572 OA
+ATOM     99  C2  UAP d 301       7.985  -2.915  54.333  0.00  0.00     0.135 C 
+ATOM    100  C4  UAP d 301       8.037  -4.426  52.408  0.00  0.00    -0.034 C 
+ATOM    101  O5  UAP d 301       9.111  -2.319  52.330  0.00  0.00    -0.311 OA
+ATOM    102  H   UAP d 301       8.709  -0.945  53.750  0.00  0.00     0.134 H 
+ATOM    103  H   UAP d 301       5.553  -3.856  54.252  0.00  0.00     0.210 HD
+ATOM    104  H   UAP d 301       7.554  -4.953  54.340  0.00  0.00     0.093 H 
+ATOM    105  H   UAP d 301       7.303  -2.602  55.096  0.00  0.00     0.097 H 
+ATOM    106  H   UAP d 301       7.867  -5.332  51.945  0.00  0.00     0.085 H 
+ENDROOT
+TORSDOF 33
