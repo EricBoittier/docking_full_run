@@ -1,0 +1,399 @@
+MODEL 1
+REMARK VINA RESULT:     -21.7      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: O3_1  and  C3_39 
+REMARK       I    between atoms: S_2  and  O4_5 
+REMARK       I    between atoms: C6_3  and  C5_7 
+REMARK       I    between atoms: C6_3  and  O6_32 
+REMARK       I    between atoms: C7_4  and  C8_28 
+REMARK       I    between atoms: C7_4  and  N_40 
+REMARK       I    between atoms: O4_5  and  C4_43 
+REMARK       I    between atoms: C1_6  and  O3_31 
+REMARK       I    between atoms: C8_8  and  C7_35 
+REMARK       I    between atoms: C2_9  and  O2_16 
+REMARK       I    between atoms: C2_11  and  N_40 
+REMARK       I    between atoms: C5_13  and  C6_58 
+REMARK       I    between atoms: C3_18  and  O3_29 
+REMARK       I    between atoms: C3_21  and  O3_51 
+REMARK       I    between atoms: C1_22  and  O1_34 
+REMARK       I    between atoms: C1_24  and  O3_51 
+REMARK       I    between atoms: S_27  and  O4_38 
+REMARK       I    between atoms: C2_30  and  N_55 
+REMARK       I    between atoms: O3_31  and  C3_44 
+REMARK       I    between atoms: C5_33  and  C6_53 
+REMARK       I    between atoms: C7_35  and  N_55 
+REMARK       I    between atoms: C5_36  and  C6_46 
+REMARK       I    between atoms: O1_37  and  C1_49 
+REMARK       I    between atoms: O1_37  and  C4_41 
+REMARK       I    between atoms: O4_38  and  C4_52 
+REMARK       I    between atoms: C6_46  and  O6_56 
+REMARK       I    between atoms: C2_50  and  O2_59 
+ROOT
+ATOM      1  O3  GCT d 811       2.461  41.812  78.676  0.00  0.00    -0.390 OA
+ATOM      2  C1  GCT d 811       3.356  44.669  76.814  0.00  0.00     0.160 C 
+ATOM      3  C5  GCT d 811       1.034  44.057  76.031  0.00  0.00     0.152 C 
+ATOM      4  O6A GCT d 811       0.093  46.272  75.649  0.00  0.00    -0.646 OA
+ATOM      5  C3  GCT d 811       2.428  42.700  77.669  0.00  0.00     0.092 C 
+ATOM      6  C4  GCT d 811       1.023  43.043  77.172  0.00  0.00     0.103 C 
+ATOM      7  O6B GCT d 811      -1.228  44.674  76.353  0.00  0.00    -0.646 OA
+ATOM      8  C2  GCT d 811       3.051  44.012  78.142  0.00  0.00     0.110 C 
+ATOM      9  O5  GCT d 811       2.366  44.518  75.806  0.00  0.00    -0.340 OA
+ATOM     10  C6  GCT d 811      -0.104  45.095  76.028  0.00  0.00     0.206 C 
+ATOM     11  O2  GCT d 811       4.288  43.595  78.647  0.00  0.00    -0.388 OA
+ATOM     12  H   GCT d 811       3.382  41.648  78.933  0.00  0.00     0.210 HD
+ATOM     13  H   GCT d 811       4.167  44.188  76.308  0.00  0.00     0.133 H 
+ATOM     14  H   GCT d 811       0.747  43.549  75.133  0.00  0.00     0.104 H 
+ATOM     15  H   GCT d 811       2.962  42.238  76.865  0.00  0.00     0.091 H 
+ATOM     16  H   GCT d 811       0.437  43.280  78.035  0.00  0.00     0.092 H 
+ATOM     17  H   GCT d 811       2.488  44.610  78.827  0.00  0.00     0.094 H 
+ATOM     18  H   GCT d 811       4.745  43.059  77.981  0.00  0.00     0.210 HD
+ATOM     19  S   ASG d 810       0.324  35.601  76.928  0.00  0.00     0.252 S 
+ATOM     20  C6  ASG d 810       1.044  38.362  79.216  0.00  0.00     0.043 C 
+ATOM     21  O4  ASG d 810       0.344  37.210  76.707  0.00  0.00    -0.246 OA
+ATOM     22  C5  ASG d 810       0.031  39.042  78.351  0.00  0.00     0.090 C 
+ATOM     23  C8  ASG d 810      -2.648  40.403  72.466  0.00  0.00    -0.003 C 
+ATOM     24  O7  ASG d 810      -0.506  39.437  72.856  0.00  0.00    -0.274 OA
+ATOM     25  OSA ASG d 810       0.825  35.396  78.264  0.00  0.00    -0.572 OA
+ATOM     26  OSB ASG d 810      -1.110  35.117  76.937  0.00  0.00    -0.572 OA
+ATOM     27  C3  ASG d 810      -1.554  38.650  76.430  0.00  0.00     0.094 C 
+ATOM     28  C2  ASG d 810      -0.740  39.668  75.650  0.00  0.00     0.087 C 
+ATOM     29  O6  ASG d 810       1.641  39.347  79.911  0.00  0.00    -0.398 OA
+ATOM     30  C7  ASG d 810      -1.506  40.032  73.300  0.00  0.00     0.214 C 
+ATOM     31  O1  ASG d 810       0.631  41.594  75.893  0.00  0.00    -0.348 OA
+ATOM     32  OSC ASG d 810       1.175  35.065  75.784  0.00  0.00    -0.572 OA
+ATOM     33  C4  ASG d 810      -0.649  38.010  77.440  0.00  0.00     0.114 C 
+ATOM     34  C1  ASG d 810      -0.155  40.684  76.629  0.00  0.00     0.154 C 
+ATOM     35  O3  ASG d 810      -2.042  37.633  75.514  0.00  0.00    -0.348 OA
+ATOM     36  N   ASG d 810      -1.629  40.216  74.646  0.00  0.00    -0.349 N 
+ATOM     37  O5  ASG d 810       0.722  39.987  77.492  0.00  0.00    -0.349 OA
+ATOM     38  H   ASG d 810       1.760  37.841  78.615  0.00  0.00     0.078 H 
+ATOM     39  H   ASG d 810       0.593  37.638  79.861  0.00  0.00     0.078 H 
+ATOM     40  H   ASG d 810      -0.694  39.528  78.970  0.00  0.00     0.090 H 
+ATOM     41  H   ASG d 810      -2.418  40.208  71.440  0.00  0.00     0.040 H 
+ATOM     42  H   ASG d 810      -2.859  41.444  72.592  0.00  0.00     0.040 H 
+ATOM     43  H   ASG d 810      -3.502  39.828  72.756  0.00  0.00     0.040 H 
+ATOM     44  H   ASG d 810      -2.383  39.121  76.916  0.00  0.00     0.091 H 
+ATOM     45  H   ASG d 810       0.106  39.256  75.140  0.00  0.00     0.084 H 
+ATOM     46  H   ASG d 810       2.038  39.982  79.295  0.00  0.00     0.209 HD
+ATOM     47  H   ASG d 810      -1.226  37.387  78.090  0.00  0.00     0.093 H 
+ATOM     48  H   ASG d 810      -0.931  41.184  77.170  0.00  0.00     0.132 H 
+ATOM     49  H   ASG d 810      -2.382  40.766  74.960  0.00  0.00     0.163 HD
+ATOM     50  C7  ASG d 812       6.607  46.266  79.102  0.00  0.00     0.214 C 
+ATOM     51  C2  ASG d 812       5.643  47.183  77.028  0.00  0.00     0.087 C 
+ATOM     52  O7  ASG d 812       6.556  47.358  79.693  0.00  0.00    -0.274 OA
+ATOM     53  OSA ASG d 812       1.335  49.019  74.593  0.00  0.00    -0.572 OA
+ATOM     54  C1  ASG d 812       6.608  48.070  76.219  0.00  0.00     0.151 C 
+ATOM     55  OSC ASG d 812       2.361  50.983  75.567  0.00  0.00    -0.572 OA
+ATOM     56  OSB ASG d 812       0.932  49.458  76.848  0.00  0.00    -0.572 OA
+ATOM     57  S   ASG d 812       1.904  49.471  75.833  0.00  0.00     0.252 S 
+ATOM     58  C8  ASG d 812       7.026  44.964  79.714  0.00  0.00    -0.003 C 
+ATOM     59  O3  ASG d 812       3.668  46.003  77.174  0.00  0.00    -0.348 OA
+ATOM     60  O1  ASG d 812       7.418  48.780  77.153  0.00  0.00    -0.369 OA
+ATOM     61  C5  ASG d 812       4.867  48.315  74.549  0.00  0.00     0.090 C 
+ATOM     62  O4  ASG d 812       3.119  48.514  76.304  0.00  0.00    -0.246 OA
+ATOM     63  N   ASG d 812       6.306  46.147  77.813  0.00  0.00    -0.349 N 
+ATOM     64  C3  ASG d 812       4.504  46.578  76.200  0.00  0.00     0.094 C 
+ATOM     65  C6  ASG d 812       4.327  49.215  73.453  0.00  0.00     0.043 C 
+ATOM     66  O5  ASG d 812       5.812  48.972  75.447  0.00  0.00    -0.349 OA
+ATOM     67  C4  ASG d 812       3.784  47.627  75.398  0.00  0.00     0.114 C 
+ATOM     68  O6  ASG d 812       5.322  49.935  72.750  0.00  0.00    -0.398 OA
+ATOM     69  H   ASG d 812       5.202  47.873  77.716  0.00  0.00     0.084 H 
+ATOM     70  H   ASG d 812       7.237  47.505  75.563  0.00  0.00     0.132 H 
+ATOM     71  H   ASG d 812       6.976  44.190  78.977  0.00  0.00     0.040 H 
+ATOM     72  H   ASG d 812       6.373  44.725  80.527  0.00  0.00     0.040 H 
+ATOM     73  H   ASG d 812       8.030  45.048  80.076  0.00  0.00     0.040 H 
+ATOM     74  H   ASG d 812       6.851  49.294  77.748  0.00  0.00     0.212 HD
+ATOM     75  H   ASG d 812       5.387  47.566  73.990  0.00  0.00     0.090 H 
+ATOM     76  H   ASG d 812       6.546  45.307  77.359  0.00  0.00     0.163 HD
+ATOM     77  H   ASG d 812       4.847  45.869  75.476  0.00  0.00     0.091 H 
+ATOM     78  H   ASG d 812       3.655  49.919  73.899  0.00  0.00     0.078 H 
+ATOM     79  H   ASG d 812       3.847  48.576  72.740  0.00  0.00     0.078 H 
+ATOM     80  H   ASG d 812       3.027  47.237  74.750  0.00  0.00     0.093 H 
+ATOM     81  H   ASG d 812       5.785  50.529  73.362  0.00  0.00     0.209 HD
+ATOM     82  C2  GAD d 809      -3.819  36.636  74.222  0.00  0.00     0.111 C 
+ATOM     83  O5  GAD d 809      -4.032  37.334  76.503  0.00  0.00    -0.311 OA
+ATOM     84  O2  GAD d 809      -3.203  36.979  72.958  0.00  0.00    -0.388 OA
+ATOM     85  C3  GAD d 809      -5.320  36.577  74.011  0.00  0.00     0.084 C 
+ATOM     86  O6A GAD d 809      -7.302  37.737  77.738  0.00  0.00    -0.642 OA
+ATOM     87  C1  GAD d 809      -3.463  37.682  75.266  0.00  0.00     0.165 C 
+ATOM     88  O3  GAD d 809      -5.689  35.289  73.490  0.00  0.00    -0.389 OA
+ATOM     89  C5  GAD d 809      -5.421  37.174  76.487  0.00  0.00     0.147 C 
+ATOM     90  O6B GAD d 809      -5.363  37.314  78.800  0.00  0.00    -0.642 OA
+ATOM     91  C6  GAD d 809      -6.084  37.415  77.767  0.00  0.00     0.233 C 
+ATOM     92  C4  GAD d 809      -6.019  36.831  75.355  0.00  0.00    -0.034 C 
+ATOM     93  H   GAD d 809      -3.466  35.688  74.570  0.00  0.00     0.095 H 
+ATOM     94  H   GAD d 809      -3.536  37.840  72.659  0.00  0.00     0.210 HD
+ATOM     95  H   GAD d 809      -5.619  37.325  73.307  0.00  0.00     0.093 H 
+ATOM     96  H   GAD d 809      -3.801  38.631  74.908  0.00  0.00     0.134 H 
+ATOM     97  H   GAD d 809      -5.425  34.598  74.117  0.00  0.00     0.210 HD
+ATOM     98  H   GAD d 809      -7.045  36.725  75.379  0.00  0.00     0.085 H 
+ENDROOT
+TORSDOF 25
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     -11.8      1.352      1.485
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: O3_1  and  C3_39 
+REMARK       I    between atoms: S_2  and  O4_5 
+REMARK       I    between atoms: C6_3  and  C5_7 
+REMARK       I    between atoms: C6_3  and  O6_32 
+REMARK       I    between atoms: C7_4  and  C8_28 
+REMARK       I    between atoms: C7_4  and  N_40 
+REMARK       I    between atoms: O4_5  and  C4_43 
+REMARK       I    between atoms: C1_6  and  O3_31 
+REMARK       I    between atoms: C8_8  and  C7_35 
+REMARK       I    between atoms: C2_9  and  O2_16 
+REMARK       I    between atoms: C2_11  and  N_40 
+REMARK       I    between atoms: C5_13  and  C6_58 
+REMARK       I    between atoms: C3_18  and  O3_29 
+REMARK       I    between atoms: C3_21  and  O3_51 
+REMARK       I    between atoms: C1_22  and  O1_34 
+REMARK       I    between atoms: C1_24  and  O3_51 
+REMARK       I    between atoms: S_27  and  O4_38 
+REMARK       I    between atoms: C2_30  and  N_55 
+REMARK       I    between atoms: O3_31  and  C3_44 
+REMARK       I    between atoms: C5_33  and  C6_53 
+REMARK       I    between atoms: C7_35  and  N_55 
+REMARK       I    between atoms: C5_36  and  C6_46 
+REMARK       I    between atoms: O1_37  and  C1_49 
+REMARK       I    between atoms: O1_37  and  C4_41 
+REMARK       I    between atoms: O4_38  and  C4_52 
+REMARK       I    between atoms: C6_46  and  O6_56 
+REMARK       I    between atoms: C2_50  and  O2_59 
+ROOT
+ATOM      1  O3  GCT d 811       1.386  40.812  78.544  0.00  0.00    -0.390 OA
+ATOM      2  C1  GCT d 811       2.572  43.716  76.934  0.00  0.00     0.160 C 
+ATOM      3  C5  GCT d 811       0.176  43.460  76.177  0.00  0.00     0.152 C 
+ATOM      4  O6A GCT d 811      -0.503  45.797  76.043  0.00  0.00    -0.646 OA
+ATOM      5  C3  GCT d 811       1.436  41.794  77.629  0.00  0.00     0.092 C 
+ATOM      6  C4  GCT d 811       0.071  42.345  77.216  0.00  0.00     0.103 C 
+ATOM      7  O6B GCT d 811      -1.988  44.301  76.636  0.00  0.00    -0.646 OA
+ATOM      8  C2  GCT d 811       2.222  42.971  78.202  0.00  0.00     0.110 C 
+ATOM      9  O5  GCT d 811       1.548  43.783  75.951  0.00  0.00    -0.340 OA
+ATOM     10  C6  GCT d 811      -0.829  44.618  76.314  0.00  0.00     0.206 C 
+ATOM     11  O2  GCT d 811       3.413  42.365  78.622  0.00  0.00    -0.388 OA
+ATOM     12  H   GCT d 811       2.287  40.518  78.751  0.00  0.00     0.210 HD
+ATOM     13  H   GCT d 811       3.308  43.197  76.356  0.00  0.00     0.133 H 
+ATOM     14  H   GCT d 811      -0.190  43.080  75.246  0.00  0.00     0.104 H 
+ATOM     15  H   GCT d 811       1.892  41.355  76.765  0.00  0.00     0.091 H 
+ATOM     16  H   GCT d 811      -0.462  42.562  78.117  0.00  0.00     0.092 H 
+ATOM     17  H   GCT d 811       1.751  43.560  78.961  0.00  0.00     0.094 H 
+ATOM     18  H   GCT d 811       3.787  41.848  77.892  0.00  0.00     0.210 HD
+ATOM     19  S   ASG d 810      -1.517  35.097  76.284  0.00  0.00     0.252 S 
+ATOM     20  C6  ASG d 810      -0.419  37.515  78.799  0.00  0.00     0.043 C 
+ATOM     21  O4  ASG d 810      -1.310  36.706  76.218  0.00  0.00    -0.246 OA
+ATOM     22  C5  ASG d 810      -1.363  38.390  78.040  0.00  0.00     0.090 C 
+ATOM     23  C8  ASG d 810      -3.998  40.632  72.410  0.00  0.00    -0.003 C 
+ATOM     24  O7  ASG d 810      -1.978  39.389  72.630  0.00  0.00    -0.274 OA
+ATOM     25  OSA ASG d 810      -1.012  34.704  77.576  0.00  0.00    -0.572 OA
+ATOM     26  OSB ASG d 810      -2.998  34.785  76.297  0.00  0.00    -0.572 OA
+ATOM     27  C3  ASG d 810      -3.029  38.378  76.147  0.00  0.00     0.094 C 
+ATOM     28  C2  ASG d 810      -2.117  39.367  75.440  0.00  0.00     0.087 C 
+ATOM     29  O6  ASG d 810       0.308  38.349  79.564  0.00  0.00    -0.398 OA
+ATOM     30  C7  ASG d 810      -2.890  40.050  73.164  0.00  0.00     0.214 C 
+ATOM     31  O1  ASG d 810      -0.521  41.086  75.819  0.00  0.00    -0.348 OA
+ATOM     32  OSC ASG d 810      -0.763  34.582  75.065  0.00  0.00    -0.572 OA
+ATOM     33  C4  ASG d 810      -2.183  37.540  77.058  0.00  0.00     0.114 C 
+ATOM     34  C1  ASG d 810      -1.392  40.205  76.491  0.00  0.00     0.154 C 
+ATOM     35  O3  ASG d 810      -3.656  37.521  75.156  0.00  0.00    -0.348 OA
+ATOM     36  N   ASG d 810      -2.957  40.112  74.524  0.00  0.00    -0.349 N 
+ATOM     37  O5  ASG d 810      -0.585  39.329  77.252  0.00  0.00    -0.349 OA
+ATOM     38  H   ASG d 810       0.215  36.976  78.127  0.00  0.00     0.078 H 
+ATOM     39  H   ASG d 810      -0.937  36.787  79.388  0.00  0.00     0.078 H 
+ATOM     40  H   ASG d 810      -2.010  38.894  78.727  0.00  0.00     0.090 H 
+ATOM     41  H   ASG d 810      -3.817  40.515  71.362  0.00  0.00     0.040 H 
+ATOM     42  H   ASG d 810      -4.080  41.672  72.643  0.00  0.00     0.040 H 
+ATOM     43  H   ASG d 810      -4.908  40.134  72.673  0.00  0.00     0.040 H 
+ATOM     44  H   ASG d 810      -3.784  38.892  76.704  0.00  0.00     0.091 H 
+ATOM     45  H   ASG d 810      -1.339  38.912  74.864  0.00  0.00     0.084 H 
+ATOM     46  H   ASG d 810       0.763  38.992  78.999  0.00  0.00     0.209 HD
+ATOM     47  H   ASG d 810      -2.815  36.927  77.665  0.00  0.00     0.093 H 
+ATOM     48  H   ASG d 810      -2.091  40.737  77.104  0.00  0.00     0.132 H 
+ATOM     49  H   ASG d 810      -3.632  40.712  74.917  0.00  0.00     0.163 HD
+ATOM     50  C7  ASG d 812       6.043  44.689  79.249  0.00  0.00     0.214 C 
+ATOM     51  C2  ASG d 812       5.148  45.913  77.307  0.00  0.00     0.087 C 
+ATOM     52  O7  ASG d 812       6.137  45.715  79.944  0.00  0.00    -0.274 OA
+ATOM     53  OSA ASG d 812       1.033  48.471  75.212  0.00  0.00    -0.572 OA
+ATOM     54  C1  ASG d 812       6.192  46.758  76.554  0.00  0.00     0.151 C 
+ATOM     55  OSC ASG d 812       2.308  50.196  76.334  0.00  0.00    -0.572 OA
+ATOM     56  OSB ASG d 812       0.738  48.728  77.511  0.00  0.00    -0.572 OA
+ATOM     57  S   ASG d 812       1.681  48.729  76.469  0.00  0.00     0.252 S 
+ATOM     58  C8  ASG d 812       6.319  43.293  79.719  0.00  0.00    -0.003 C 
+ATOM     59  O3  ASG d 812       3.049  44.963  77.409  0.00  0.00    -0.348 OA
+ATOM     60  O1  ASG d 812       7.103  47.272  77.523  0.00  0.00    -0.369 OA
+ATOM     61  C5  ASG d 812       4.454  47.369  74.977  0.00  0.00     0.090 C 
+ATOM     62  O4  ASG d 812       2.783  47.595  76.803  0.00  0.00    -0.246 OA
+ATOM     63  N   ASG d 812       5.700  44.735  77.966  0.00  0.00    -0.349 N 
+ATOM     64  C3  ASG d 812       3.925  45.530  76.466  0.00  0.00     0.094 C 
+ATOM     65  C6  ASG d 812       4.000  48.429  73.993  0.00  0.00     0.043 C 
+ATOM     66  O5  ASG d 812       5.491  47.819  75.900  0.00  0.00    -0.349 OA
+ATOM     67  C4  ASG d 812       3.317  46.730  75.794  0.00  0.00     0.114 C 
+ATOM     68  O6  ASG d 812       5.057  49.095  73.327  0.00  0.00    -0.398 OA
+ATOM     69  H   ASG d 812       4.809  46.579  78.074  0.00  0.00     0.084 H 
+ATOM     70  H   ASG d 812       6.733  46.191  75.825  0.00  0.00     0.132 H 
+ATOM     71  H   ASG d 812       6.159  42.607  78.913  0.00  0.00     0.040 H 
+ATOM     72  H   ASG d 812       5.660  43.052  80.527  0.00  0.00     0.040 H 
+ATOM     73  H   ASG d 812       7.333  43.222  80.051  0.00  0.00     0.040 H 
+ATOM     74  H   ASG d 812       6.615  47.787  78.184  0.00  0.00     0.212 HD
+ATOM     75  H   ASG d 812       4.868  46.623  74.331  0.00  0.00     0.090 H 
+ATOM     76  H   ASG d 812       5.827  43.922  77.426  0.00  0.00     0.163 HD
+ATOM     77  H   ASG d 812       4.164  44.862  75.666  0.00  0.00     0.091 H 
+ATOM     78  H   ASG d 812       3.427  49.159  74.526  0.00  0.00     0.078 H 
+ATOM     79  H   ASG d 812       3.431  47.925  73.239  0.00  0.00     0.078 H 
+ATOM     80  H   ASG d 812       2.504  46.497  75.138  0.00  0.00     0.093 H 
+ATOM     81  H   ASG d 812       5.601  49.568  73.976  0.00  0.00     0.209 HD
+ATOM     82  C2  GAD d 809      -5.569  36.871  73.837  0.00  0.00     0.111 C 
+ATOM     83  O5  GAD d 809      -5.643  37.359  76.180  0.00  0.00    -0.311 OA
+ATOM     84  O2  GAD d 809      -4.946  37.264  72.590  0.00  0.00    -0.388 OA
+ATOM     85  C3  GAD d 809      -7.070  37.009  73.674  0.00  0.00     0.084 C 
+ATOM     86  O6A GAD d 809      -8.812  38.016  77.562  0.00  0.00    -0.642 OA
+ATOM     87  C1  GAD d 809      -5.066  37.759  74.963  0.00  0.00     0.165 C 
+ATOM     88  O3  GAD d 809      -7.603  35.831  73.045  0.00  0.00    -0.389 OA
+ATOM     89  C5  GAD d 809      -7.041  37.364  76.198  0.00  0.00     0.147 C 
+ATOM     90  O6B GAD d 809      -6.913  37.266  78.510  0.00  0.00    -0.642 OA
+ATOM     91  C6  GAD d 809      -7.641  37.553  77.517  0.00  0.00     0.233 C 
+ATOM     92  C4  GAD d 809      -7.702  37.207  75.059  0.00  0.00    -0.034 C 
+ATOM     93  H   GAD d 809      -5.323  35.858  74.080  0.00  0.00     0.095 H 
+ATOM     94  H   GAD d 809      -5.181  38.183  72.388  0.00  0.00     0.210 HD
+ATOM     95  H   GAD d 809      -7.295  37.853  73.056  0.00  0.00     0.093 H 
+ATOM     96  H   GAD d 809      -5.297  38.773  74.710  0.00  0.00     0.134 H 
+ATOM     97  H   GAD d 809      -7.408  35.055  73.593  0.00  0.00     0.210 HD
+ATOM     98  H   GAD d 809      -8.733  37.220  75.109  0.00  0.00     0.085 H 
+ENDROOT
+TORSDOF 25
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:     -11.2      1.402      1.581
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: O3_1  and  C3_39 
+REMARK       I    between atoms: S_2  and  O4_5 
+REMARK       I    between atoms: C6_3  and  C5_7 
+REMARK       I    between atoms: C6_3  and  O6_32 
+REMARK       I    between atoms: C7_4  and  C8_28 
+REMARK       I    between atoms: C7_4  and  N_40 
+REMARK       I    between atoms: O4_5  and  C4_43 
+REMARK       I    between atoms: C1_6  and  O3_31 
+REMARK       I    between atoms: C8_8  and  C7_35 
+REMARK       I    between atoms: C2_9  and  O2_16 
+REMARK       I    between atoms: C2_11  and  N_40 
+REMARK       I    between atoms: C5_13  and  C6_58 
+REMARK       I    between atoms: C3_18  and  O3_29 
+REMARK       I    between atoms: C3_21  and  O3_51 
+REMARK       I    between atoms: C1_22  and  O1_34 
+REMARK       I    between atoms: C1_24  and  O3_51 
+REMARK       I    between atoms: S_27  and  O4_38 
+REMARK       I    between atoms: C2_30  and  N_55 
+REMARK       I    between atoms: O3_31  and  C3_44 
+REMARK       I    between atoms: C5_33  and  C6_53 
+REMARK       I    between atoms: C7_35  and  N_55 
+REMARK       I    between atoms: C5_36  and  C6_46 
+REMARK       I    between atoms: O1_37  and  C1_49 
+REMARK       I    between atoms: O1_37  and  C4_41 
+REMARK       I    between atoms: O4_38  and  C4_52 
+REMARK       I    between atoms: C6_46  and  O6_56 
+REMARK       I    between atoms: C2_50  and  O2_59 
+ROOT
+ATOM      1  O3  GCT d 811       3.887  42.406  78.511  0.00  0.00    -0.390 OA
+ATOM      2  C1  GCT d 811       3.954  45.351  76.574  0.00  0.00     0.160 C 
+ATOM      3  C5  GCT d 811       1.609  44.444  76.337  0.00  0.00     0.152 C 
+ATOM      4  O6A GCT d 811       0.334  46.520  76.249  0.00  0.00    -0.646 OA
+ATOM      5  C3  GCT d 811       3.508  43.281  77.566  0.00  0.00     0.092 C 
+ATOM      6  C4  GCT d 811       1.994  43.439  77.420  0.00  0.00     0.103 C 
+ATOM      7  O6B GCT d 811      -0.573  44.766  77.195  0.00  0.00    -0.646 OA
+ATOM      8  C2  GCT d 811       4.055  44.663  77.917  0.00  0.00     0.110 C 
+ATOM      9  O5  GCT d 811       2.782  45.073  75.821  0.00  0.00    -0.340 OA
+ATOM     10  C6  GCT d 811       0.381  45.327  76.629  0.00  0.00     0.206 C 
+ATOM     11  O2  GCT d 811       5.418  44.410  78.108  0.00  0.00    -0.388 OA
+ATOM     12  H   GCT d 811       4.856  42.363  78.541  0.00  0.00     0.210 HD
+ATOM     13  H   GCT d 811       4.677  44.978  75.879  0.00  0.00     0.133 H 
+ATOM     14  H   GCT d 811       1.185  43.902  75.517  0.00  0.00     0.104 H 
+ATOM     15  H   GCT d 811       3.891  42.890  76.646  0.00  0.00     0.091 H 
+ATOM     16  H   GCT d 811       1.602  43.601  78.402  0.00  0.00     0.092 H 
+ATOM     17  H   GCT d 811       3.599  45.185  78.732  0.00  0.00     0.094 H 
+ATOM     18  H   GCT d 811       5.770  43.936  77.339  0.00  0.00     0.210 HD
+ATOM     19  S   ASG d 810       2.195  35.969  77.134  0.00  0.00     0.252 S 
+ATOM     20  C6  ASG d 810       3.081  38.804  79.268  0.00  0.00     0.043 C 
+ATOM     21  O4  ASG d 810       1.961  37.567  76.960  0.00  0.00    -0.246 OA
+ATOM     22  C5  ASG d 810       1.817  39.347  78.683  0.00  0.00     0.090 C 
+ATOM     23  C8  ASG d 810      -2.320  40.341  73.627  0.00  0.00    -0.003 C 
+ATOM     24  O7  ASG d 810      -0.043  39.659  73.478  0.00  0.00    -0.274 OA
+ATOM     25  OSA ASG d 810       3.018  35.833  78.310  0.00  0.00    -0.572 OA
+ATOM     26  OSB ASG d 810       0.876  35.305  77.463  0.00  0.00    -0.572 OA
+ATOM     27  C3  ASG d 810      -0.114  38.750  77.175  0.00  0.00     0.094 C 
+ATOM     28  C2  ASG d 810       0.360  39.864  76.256  0.00  0.00     0.087 C 
+ATOM     29  O6  ASG d 810       3.697  39.858  79.833  0.00  0.00    -0.398 OA
+ATOM     30  C7  ASG d 810      -0.977  40.122  74.161  0.00  0.00     0.214 C 
+ATOM     31  O1  ASG d 810       1.497  41.950  76.227  0.00  0.00    -0.348 OA
+ATOM     32  OSC ASG d 810       2.813  35.545  75.808  0.00  0.00    -0.572 OA
+ATOM     33  C4  ASG d 810       1.076  38.234  77.927  0.00  0.00     0.114 C 
+ATOM     34  C1  ASG d 810       1.026  40.948  77.100  0.00  0.00     0.154 C 
+ATOM     35  O3  ASG d 810      -0.672  37.677  76.370  0.00  0.00    -0.348 OA
+ATOM     36  N   ASG d 810      -0.802  40.291  75.502  0.00  0.00    -0.349 N 
+ATOM     37  O5  ASG d 810       2.162  40.370  77.714  0.00  0.00    -0.349 OA
+ATOM     38  H   ASG d 810       3.695  38.378  78.502  0.00  0.00     0.078 H 
+ATOM     39  H   ASG d 810       2.889  38.029  79.980  0.00  0.00     0.078 H 
+ATOM     40  H   ASG d 810       1.202  39.737  79.468  0.00  0.00     0.090 H 
+ATOM     41  H   ASG d 810      -2.315  40.176  72.570  0.00  0.00     0.040 H 
+ATOM     42  H   ASG d 810      -2.624  41.346  73.829  0.00  0.00     0.040 H 
+ATOM     43  H   ASG d 810      -3.003  39.662  74.092  0.00  0.00     0.040 H 
+ATOM     44  H   ASG d 810      -0.858  39.112  77.854  0.00  0.00     0.091 H 
+ATOM     45  H   ASG d 810       1.107  39.563  75.551  0.00  0.00     0.084 H 
+ATOM     46  H   ASG d 810       3.854  40.538  79.159  0.00  0.00     0.209 HD
+ATOM     47  H   ASG d 810       0.750  37.543  78.676  0.00  0.00     0.093 H 
+ATOM     48  H   ASG d 810       0.343  41.345  77.821  0.00  0.00     0.132 H 
+ATOM     49  H   ASG d 810      -1.523  40.740  76.000  0.00  0.00     0.163 HD
+ATOM     50  C7  ASG d 812       7.425  47.357  78.085  0.00  0.00     0.214 C 
+ATOM     51  C2  ASG d 812       5.894  48.139  76.320  0.00  0.00     0.087 C 
+ATOM     52  O7  ASG d 812       7.379  48.434  78.703  0.00  0.00    -0.274 OA
+ATOM     53  OSA ASG d 812       0.939  49.401  75.011  0.00  0.00    -0.572 OA
+ATOM     54  C1  ASG d 812       6.522  49.141  75.334  0.00  0.00     0.151 C 
+ATOM     55  OSC ASG d 812       1.911  51.483  75.775  0.00  0.00    -0.572 OA
+ATOM     56  OSB ASG d 812       1.025  49.789  77.309  0.00  0.00    -0.572 OA
+ATOM     57  S   ASG d 812       1.723  49.926  76.096  0.00  0.00     0.252 S 
+ATOM     58  C8  ASG d 812       8.137  46.121  78.545  0.00  0.00    -0.003 C 
+ATOM     59  O3  ASG d 812       4.172  46.715  76.889  0.00  0.00    -0.348 OA
+ATOM     60  O1  ASG d 812       7.434  49.951  76.073  0.00  0.00    -0.369 OA
+ATOM     61  C5  ASG d 812       4.422  49.158  74.124  0.00  0.00     0.090 C 
+ATOM     62  O4  ASG d 812       3.124  49.133  76.243  0.00  0.00    -0.246 OA
+ATOM     63  N   ASG d 812       6.847  47.198  76.899  0.00  0.00    -0.349 N 
+ATOM     64  C3  ASG d 812       4.678  47.391  75.764  0.00  0.00     0.094 C 
+ATOM     65  C6  ASG d 812       3.530  49.978  73.211  0.00  0.00     0.043 C 
+ATOM     66  O5  ASG d 812       5.461  49.932  74.795  0.00  0.00    -0.349 OA
+ATOM     67  C4  ASG d 812       3.663  48.337  75.182  0.00  0.00     0.114 C 
+ATOM     68  O6  ASG d 812       4.234  50.819  72.315  0.00  0.00    -0.398 OA
+ATOM     69  H   ASG d 812       5.545  48.768  77.112  0.00  0.00     0.084 H 
+ATOM     70  H   ASG d 812       7.045  48.660  74.534  0.00  0.00     0.132 H 
+ATOM     71  H   ASG d 812       8.012  45.346  77.818  0.00  0.00     0.040 H 
+ATOM     72  H   ASG d 812       7.728  45.802  79.481  0.00  0.00     0.040 H 
+ATOM     73  H   ASG d 812       9.179  46.334  78.665  0.00  0.00     0.040 H 
+ATOM     74  H   ASG d 812       6.963  50.389  76.799  0.00  0.00     0.212 HD
+ATOM     75  H   ASG d 812       4.885  48.480  73.438  0.00  0.00     0.090 H 
+ATOM     76  H   ASG d 812       7.077  46.395  76.378  0.00  0.00     0.163 HD
+ATOM     77  H   ASG d 812       4.927  46.731  74.960  0.00  0.00     0.091 H 
+ATOM     78  H   ASG d 812       2.899  50.591  73.820  0.00  0.00     0.078 H 
+ATOM     79  H   ASG d 812       2.981  49.282  72.611  0.00  0.00     0.078 H 
+ATOM     80  H   ASG d 812       2.830  47.852  74.718  0.00  0.00     0.093 H 
+ATOM     81  H   ASG d 812       4.749  51.469  72.819  0.00  0.00     0.209 HD
+ATOM     82  C2  GAD d 809      -2.564  36.458  75.500  0.00  0.00     0.111 C 
+ATOM     83  O5  GAD d 809      -2.320  37.127  77.786  0.00  0.00    -0.311 OA
+ATOM     84  O2  GAD d 809      -2.310  36.875  74.137  0.00  0.00    -0.388 OA
+ATOM     85  C3  GAD d 809      -4.052  36.207  75.643  0.00  0.00     0.084 C 
+ATOM     86  O6A GAD d 809      -5.232  37.109  79.761  0.00  0.00    -0.642 OA
+ATOM     87  C1  GAD d 809      -2.106  37.543  76.461  0.00  0.00     0.165 C 
+ATOM     88  O3  GAD d 809      -4.370  34.881  75.186  0.00  0.00    -0.389 OA
+ATOM     89  C5  GAD d 809      -3.642  36.790  78.090  0.00  0.00     0.147 C 
+ATOM     90  O6B GAD d 809      -3.060  36.940  80.329  0.00  0.00    -0.642 OA
+ATOM     91  C6  GAD d 809      -4.012  36.946  79.496  0.00  0.00     0.233 C 
+ATOM     92  C4  GAD d 809      -4.442  36.371  77.119  0.00  0.00    -0.034 C 
+ATOM     93  H   GAD d 809      -2.023  35.564  75.729  0.00  0.00     0.095 H 
+ATOM     94  H   GAD d 809      -2.809  37.686  73.949  0.00  0.00     0.210 HD
+ATOM     95  H   GAD d 809      -4.600  36.909  75.050  0.00  0.00     0.093 H 
+ATOM     96  H   GAD d 809      -2.635  38.441  76.220  0.00  0.00     0.134 H 
+ATOM     97  H   GAD d 809      -3.881  34.231  75.714  0.00  0.00     0.210 HD
+ATOM     98  H   GAD d 809      -5.412  36.134  77.379  0.00  0.00     0.085 H 
+ENDROOT
+TORSDOF 25
+ENDMDL
